@@ -5,7 +5,8 @@ Method documentation in code.
 ## Table
 
 Supports markdown and rsf tables as well as custom margin and row numbers.
-Also custom syntax of using table alignment: _ header: right __ header: middle.
+Also custom syntax of using table alignment:
+_ header: right __ header: middle.
 Example:
 ```perl
 # EXAMPLE
