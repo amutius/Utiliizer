@@ -6,7 +6,7 @@ Method documentation in code.
 
 Supports markdown and rsf tables as well as custom margin and row numbers.
 Example:
-[code]
+```perl
 # EXAMPLE
 
 my @header = ("__Zentriert", "_Rechts", "Links/Normal", "*Cool*");
@@ -18,7 +18,7 @@ push @data, \@entry1, \@entry2, \@entry3;
 
 my $tb = Table->new(\@header, \@data);
 $tb->print(0, 1);
-[/code]
+```
 
 Output:
 | Zentriert | Rechts | Links/Normal | *Cool* |
