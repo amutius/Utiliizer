@@ -1,6 +1,6 @@
 # Utiliizer
 
-Not finished, trying hands on a utility library in perl.
+Trying hands on a utility library in perl.
 Method documentation in code.
 ## Table
 
